@@ -1,5 +1,5 @@
 #!name=飓风相机专业版
-#!desc=飓风相机专业版@anyeyey
+#!desc=飓风相机专业版@franksmps
 
 [MITM]
 hostname =  %APPEND% base.ysjf.com
